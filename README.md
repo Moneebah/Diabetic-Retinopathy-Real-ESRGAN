@@ -15,13 +15,13 @@ The primary objective was to achieve a high-resolution output where the intricat
 
 # Methodology:
 ## 1. Data Source:
-Employed the Kaggle's diabetic retinopathy dataset, which is renowned for its good pixel quality, as our baseline for fine-tuning.
+Employed the [Kaggle's diabetic retinopathy dataset](https://www.kaggle.com/datasets/tanlikesmath/diabetic-retinopathy-resized), which has good pixel quality, as the baseline for fine-tuning.
 
 ## 2. Fine-Tuning:
 Real-ESRGAN was then fine-tuned on this dataset, capitalizing on its high-quality pixel images. The training process spanned over 3,500 iterations for just 1 epoch, given the substantial size of the dataset (30,000+ images).
 
 ## 3. Application:
-The fine-tuned model was subsequently applied to the real hospital dataset. This dataset, characterized by its vast image dimensions but compromised pixel quality, exhibited noticeable noise upon zooming in. However, with the application of our fine-tuned Real-ESRGAN, we observed significant improvements in the image details, with a notable reduction in noise.
+The fine-tuned model was subsequently applied to the real hospital dataset. This dataset, characterized by its vast image dimensions but compromised pixel quality, exhibited noticeable noise upon zooming in. However, with the application of the fine-tuned Real-ESRGAN,  significant improvements were observed in the image details, with a notable reduction in noise.
 
 ## 4. Optimal Size Resolution:
 Through experimentation, it was discerned that the best results were obtained by resizing the images from their original dimension (around 3000 pixels) to 1024 pixels. This resize operation, followed by the application of the fine-tuned model on the real data, yielded the most optimal results.
