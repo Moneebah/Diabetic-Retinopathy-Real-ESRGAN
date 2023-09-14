@@ -8,7 +8,7 @@ Using Real-ESRGAN to enhance real hospital data
 
 
 # Introduction:
-Fine-tuned the state-of-the-art Real-ESRGAN model to enhance images of diabetic retinopathy. The motivation behind this undertaking was to address the challenges faced with real hospital datasets that, despite their large dimensions (around 3000 pixels in width), often suffer from a degraded pixel quality.
+Fine-tuned the state-of-the-art Real-ESRGAN model (by [xinntao](https://github.com/xinntao/Real-ESRGAN)) to enhance images of diabetic retinopathy. The motivation behind this undertaking was to address the challenges faced with real hospital datasets that, despite their large dimensions (around 3000 pixels in width), often suffer from a degraded pixel quality.
 
 # Objective:
 The primary objective was to achieve a high-resolution output where the intricate details of the blood vessels and other crucial features in retinal images are preserved and enhanced. This not only aids in better visualization but also potentially offers more accurate diagnostic insights.
