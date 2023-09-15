@@ -31,7 +31,7 @@ The results were quite promising. The fine-tuned model adeptly addressed the noi
 
 # Usage
 
-Clone this repository and follow the steps mentioned in "Finetuned Retinopathy Model Usage Guide" to apply this finetuned model onto your own dataset
+Clone this repository and follow the steps mentioned in file: finetuned-retinopathy-model-usage-guide (1).ipynb to apply this finetuned model onto your own dataset
 
 # Conclusion:
 Fine-tuning advanced models like Real-ESRGAN on specialized datasets can dramatically improve the quality of medical images, particularly when the original data suffers from noise and other quality issues. Such advancements not only facilitate clearer visualizations for medical practitioners but could also lead to more precise diagnostic methodologies in the future.
