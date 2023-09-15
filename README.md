@@ -29,6 +29,10 @@ Through experimentation, it was discerned that the best results were obtained by
 # Results:
 The results were quite promising. The fine-tuned model adeptly addressed the noise and quality limitations of the real hospital dataset by producing images with enhanced clarity. Specifically, the details of blood vessels, which are paramount in diagnosing and studying diabetic retinopathy, were significantly more defined and visible.
 
+# Usage
+
+Clone this repository and follow the steps mentioned in "Finetuned Retinopathy Model Usage Guide" to apply this finetuned model onto your own dataset
+
 # Conclusion:
 Fine-tuning advanced models like Real-ESRGAN on specialized datasets can dramatically improve the quality of medical images, particularly when the original data suffers from noise and other quality issues. Such advancements not only facilitate clearer visualizations for medical practitioners but could also lead to more precise diagnostic methodologies in the future.
 
