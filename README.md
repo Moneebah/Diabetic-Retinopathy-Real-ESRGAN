@@ -1,4 +1,4 @@
-# Transfer Learning of the Real-ESRGAN Model for Diabetic Retinopathy Imaging on Real Hospital Dataset
+# Enhancing Diabetic Retinopathy Images Using Transfer Learning with Fine-Tuned Real-ESRGAN
 
 Using Real-ESRGAN to enhance real hospital data
 
