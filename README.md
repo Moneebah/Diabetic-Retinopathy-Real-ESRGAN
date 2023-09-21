@@ -1,4 +1,4 @@
-# Fine-Tuning the Real-ESRGAN Model for Diabetic Retinopathy Imaging
+# Transfer Learning of the Real-ESRGAN Model for Diabetic Retinopathy Imaging on Real Hospital Dataset
 
 Using Real-ESRGAN to enhance real hospital data
 
@@ -6,7 +6,7 @@ Using Real-ESRGAN to enhance real hospital data
 ![image](https://github.com/Moneebah/Diabetic-Retinopathy-Real-ESRGAN/assets/129015993/53b05045-a7f7-4c56-938b-bc5726f57241)
 ![image](https://github.com/Moneebah/Diabetic-Retinopathy-Real-ESRGAN/assets/129015993/bcbcbc58-c876-4d4e-9551-950f59c1ca54)
 
-[following images are very close examples of the real hospital data]
+[images are very close examples of the real hospital data]
 
 
 # Introduction:
